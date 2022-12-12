@@ -1,0 +1,11 @@
+.p-toolbar:defined{
+    background-color: black;
+    padding-top: 1rem;
+}
+a{
+    text-align: center;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
